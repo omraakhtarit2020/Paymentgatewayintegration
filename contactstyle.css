@@ -86,3 +86,30 @@ textarea.contact-form-text{
     outline: none;
     color: #ddd;
   }
+.thankyoumsg{
+  visibility: hidden;
+}
+.design{
+  background-color: rgb(245, 245, 245);
+  opacity: 0.9;
+  text-align: center;
+  height: 200px;
+  width: 300px;
+  margin-top: 14%;
+  margin-left: 35%;
+  box-shadow: 0 0 3rem green;
+}
+.design h2{
+  padding-top: 58px;
+  color: green;
+}
+.design i{
+  color: green;
+  font-size: x-large;
+}
+.hidecss{
+  visibility: hidden;
+}
+.showcss{
+  visibility:visible;
+}
